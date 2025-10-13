@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "*.cpp": "cpp",
-        "ranges": "c"
+        "ranges": "c",
+        "cmath": "cpp",
+        "iostream": "cpp"
     }
 }
