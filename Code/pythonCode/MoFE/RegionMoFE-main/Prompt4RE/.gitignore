@@ -1,0 +1,6 @@
+model/
+nni-experiment/
+mmdata_NY/prompt_data.json
+mmdata_Chi/prompt_data.json
+experiment_results.csv
+__pycache__/
